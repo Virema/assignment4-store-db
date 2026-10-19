@@ -1,6 +1,3 @@
--- Assignment 4. Subqueries, Grouping, Aggregate Functions and Functions
--- Database: Store_db (PostgreSQL)
-
 -- Task 1.
 SELECT
     first_name || ' ' || UPPER(last_name) AS full_name,
